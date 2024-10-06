@@ -1,12 +1,15 @@
 NumPy Practice Problems in Python 3.12.4
 
-Overview:This repository contains a collection of practice problems focusing on NumPy, a powerful library in Python used for numerical computations. These exercises help strengthen fundamental skills in using arrays, matrix operations, and statistical methods. As part of my learning journey in Python, I am exploring key operations and functionalities provided by NumPy.
+Overview:
+This repository contains a collection of practice problems focusing on NumPy, a powerful library in Python used for numerical computations. These exercises help strengthen fundamental skills in using arrays, matrix operations, and statistical methods. As part of my learning journey in Python, I am exploring key operations and functionalities provided by NumPy.
 
-Learning Journey:NumPy is essential for scientific computing and data manipulation. Through these exercises, I’ve gained a solid understanding of how to use arrays, perform efficient calculations, and leverage built-in functions to work with large datasets. This hands-on approach with NumPy will support my future work in data science, machine learning, and related fields.
+Learning Journey:
+NumPy is essential for scientific computing and data manipulation. Through these exercises, I’ve gained a solid understanding of how to use arrays, perform efficient calculations, and leverage built-in functions to work with large datasets. This hands-on approach with NumPy will support my future work in data science, machine learning, and related fields.
 
-Impact on Data Science, Machine Learning, and Artificial Intelligence:NumPy plays a crucial role in Data Science, Machine Learning (ML), and Artificial Intelligence (AI) for several reasons:
+Impact on Data Science, Machine Learning, and Artificial Intelligence:
+NumPy plays a crucial role in Data Science, Machine Learning (ML), and Artificial Intelligence (AI) for several reasons:
 
-1)Efficient Data Handling: NumPy provides powerful data structures (like arrays) that allow for efficient storage and manipulation of large datasets, making it easier to perform complex mathematical operations.
+1)Efficient Data Handling:NumPy provides powerful data structures (like arrays) that allow for efficient storage and manipulation of large datasets, making it easier to perform complex mathematical operations.
 
 2)Performance: NumPy operations are implemented in C and Fortran, enabling fast execution of mathematical computations. This speed is essential for handling large datasets commonly used in ML and AI.
 
@@ -16,7 +19,8 @@ Impact on Data Science, Machine Learning, and Artificial Intelligence:NumPy play
 
 5)Statistical Functions: NumPy provides a wide range of statistical functions that are important for data analysis, enabling practitioners to perform exploratory data analysis and model evaluation with ease.
 
-Technologies Used:Python 3.12.4
+Technologies Used:
+Python 3.12.4
 NumPy
 NumPy is the main library used for numerical operations and array manipulations.
 Jupyter Notebook
@@ -79,7 +83,9 @@ Problem 10: Submatrix Extraction
 Create a 3x3 matrix and extract a submatrix from it by selecting rows 1 and 2, and columns 1 and 2.
 Create a function that takes a matrix and the top-left and bottom-right coordinates of the submatrix and returns the submatrix.
 
-Conclusion:These exercises have enhanced my understanding of NumPy’s core functionalities, enabling me to perform complex numerical operations efficiently. By practicing with arrays, matrices, and statistical tools, I now feel confident using NumPy for future projects in data analysis and scientific computing.
+Conclusion:
+These exercises have enhanced my understanding of NumPy’s core functionalities, enabling me to perform complex numerical operations efficiently. By practicing with arrays, matrices, and statistical tools, I now feel confident using NumPy for future projects in data analysis and scientific computing.
 
-Contributors:Prashasya Srivastava
+Contributors:
+Prashasya Srivastava
 Beginner Python enthusiast passionate about learning data science.
